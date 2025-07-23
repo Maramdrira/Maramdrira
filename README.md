@@ -47,7 +47,6 @@ Mobile app for artisans and event planning
 - 📧 maram.drira@esprit.tn  
 - 📍 Boumhal, Tunis  
 
----
 
 <p align="left">
 <a href="https://linkedin.com/in/maramdrira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maramdrira" height="30" width="40" /></a>
@@ -76,14 +75,12 @@ Mobile app for artisans and event planning
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maramdrira&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 
 
